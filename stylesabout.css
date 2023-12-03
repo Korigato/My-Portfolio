@@ -1,0 +1,23 @@
+body {
+    background-color: hsl(210, 36%, 96%);
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 100px;
+    margin-top: 250px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'
+    , Geneva, Verdana, sans-serif;
+    color: rgb(111, 168, 217);
+}
+p {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode'
+    , Geneva, Verdana, sans-serif;
+}
